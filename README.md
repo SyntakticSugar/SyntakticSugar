@@ -10,6 +10,7 @@ I spend most of time split between refining my course materials and adding to th
 - Lambda calculus [computer](https://github.com/SyntakticSugar/lamb) :abacus: written in Haskell.
 - Turing machine [interpreter](https://github.com/SyntakticSugar/turing) :steam_locomotive: written in Python.
 - Course materials for MATH230: Proofs and Programs :notebook_with_decorative_cover:
+- [Advent of Code](https://adventofcode.com/) :christmas_tree::santa:
 
 ### Vocation
 I am a mathematics teacher in Christchurch, New Zealand. I am primarily involved with teaching first year undergraduates, but I do teach a second year class about logic and computation. I studied mathematics at the University of Canterbury (BSc Hons) and Australian National Univeristy (PhD) primarily studying algebraic geometry, algebraic number theory, and category theory. I wrote my [thesis](https://maths-people.anu.edu.au/~borger/student-theses/Robert%20Culling's%20thesis.pdf) about Grothendieck's Galois Theory of schemes over the natural numbers. My interests have moved towards type theory, in particular as a language to express mathematics.
