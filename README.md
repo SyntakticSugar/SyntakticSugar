@@ -9,7 +9,7 @@ I spend most of time split between refining my course materials and adding to th
 - Digital [library](https://github.com/SyntakticSugar/mathematics) of formalised mathematics :books: written in Lean.
 - Lambda calculus [computer](https://github.com/SyntakticSugar/lamb) :abacus: written in Haskell.
 - Turing machine [interpreter](https://github.com/SyntakticSugar/turing) :steam_locomotive: written in Python.
-- Course materials for MATH230: Proofs and Programs :notebook_with_decorative_cover:
+- [Course materials](https://github.com/SyntakticSugar/proofgrams) on the Curry-Howard isomorphism :notebook_with_decorative_cover:
 - [Advent of Code](https://adventofcode.com/) :christmas_tree::santa:
 
 ### Vocation
