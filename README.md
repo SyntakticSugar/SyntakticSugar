@@ -1,6 +1,15 @@
 ## Hello, my name is Robert :man_technologist:
 
-I am interested in functional programming, type theory, and category theory. After studying mathematics for ~10years, I am only now learning that proofs are programs; even though this was understood in the 1970s, or even the 30s in some sense, I only became aware of this insight in 2020. For this reason, I am currently interested in learning about programming language theory and proof assistants. I teach these and related ideas to second year undergraduates in Christchurch, New Zealand. Although I have no formal training in computer science and programming, I enjoy writing code as a hobby. I enjoy coding in the Haskell, Agda, and Lean.
+I am interested in functional programming, type theory, and category theory. After studying mathematics for ~10years I am only now learning that proofs are programs; even though this was understood in the 1970s, or even the 30s in some sense. This has driven an interested in programming language theory and proof assistants. I teach these and related ideas to second year undergraduates in Christchurch, New Zealand. Although I have no formal training in computer science and programming, I enjoy writing code in Haskell, Agda, and Lean as a hobby. 
+
+# Projects :building_construction:
+
+I spend most of time split between refining my course materials and adding to the digital library of mathematics. However, I make other projects available on here too. 
+
+- Digital [library](https://github.com/SyntakticSugar/mathematics) of formalised mathematics :books:
+- Lambda calculus [computer](https://github.com/SyntakticSugar/lamb) :abacus:
+- Turing machine [interpreter](https://github.com/SyntakticSugar/turing) :steam_locomotive:
+- Course materials for MATH230: Proofs and Programs :notebook_with_decorative_cover:
 
 # Vocation
 I am a mathematics teacher in Christchurch, New Zealand. I am primarily involved with teaching first year undergraduates, but I do teach a second year class about logic and computation. I studied mathematics at the University of Canterbury (BSc Hons) and Australian National Univeristy (PhD) primarily studying algebraic geometry, algebraic number theory, and category theory. I wrote my [thesis](https://maths-people.anu.edu.au/~borger/student-theses/Robert%20Culling's%20thesis.pdf) about Grothendieck's Galois Theory of schemes over the natural numbers. My interests have moved towards type theory and how it can be used to digitize and verify mathematical theorems. 
