@@ -6,9 +6,9 @@ I am interested in functional programming, type theory, and category theory. Aft
 
 I spend most of time split between refining my course materials and adding to the digital library of mathematics. However, I make other projects available on here too. 
 
-- Digital [library](https://github.com/SyntakticSugar/mathematics) of formalised mathematics :books:
-- Lambda calculus [computer](https://github.com/SyntakticSugar/lamb) :abacus:
-- Turing machine [interpreter](https://github.com/SyntakticSugar/turing) :steam_locomotive:
+- Digital [library](https://github.com/SyntakticSugar/mathematics) of formalised mathematics :books: written in Lean.
+- Lambda calculus [computer](https://github.com/SyntakticSugar/lamb) :abacus: written in Haskell.
+- Turing machine [interpreter](https://github.com/SyntakticSugar/turing) :steam_locomotive: written in Python.
 - Course materials for MATH230: Proofs and Programs :notebook_with_decorative_cover:
 
 ### Vocation
