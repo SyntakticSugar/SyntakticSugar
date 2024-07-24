@@ -12,7 +12,7 @@ I spend most of time split between refining my course materials and adding to th
 - Course materials for MATH230: Proofs and Programs :notebook_with_decorative_cover:
 
 ### Vocation
-I am a mathematics teacher in Christchurch, New Zealand. I am primarily involved with teaching first year undergraduates, but I do teach a second year class about logic and computation. I studied mathematics at the University of Canterbury (BSc Hons) and Australian National Univeristy (PhD) primarily studying algebraic geometry, algebraic number theory, and category theory. I wrote my [thesis](https://maths-people.anu.edu.au/~borger/student-theses/Robert%20Culling's%20thesis.pdf) about Grothendieck's Galois Theory of schemes over the natural numbers. My interests have moved towards type theory and how it can be used to digitize and verify mathematical theorems. 
+I am a mathematics teacher in Christchurch, New Zealand. I am primarily involved with teaching first year undergraduates, but I do teach a second year class about logic and computation. I studied mathematics at the University of Canterbury (BSc Hons) and Australian National Univeristy (PhD) primarily studying algebraic geometry, algebraic number theory, and category theory. I wrote my [thesis](https://maths-people.anu.edu.au/~borger/student-theses/Robert%20Culling's%20thesis.pdf) about Grothendieck's Galois Theory of schemes over the natural numbers. My interests have moved towards type theory, in particular as a language to express mathematics.
 
 <!--
 **SyntakticSugar/SyntakticSugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
