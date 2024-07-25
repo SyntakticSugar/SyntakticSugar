@@ -1,10 +1,10 @@
 ## Hello, my name is Robert :man_technologist:
 
-I am interested in functional programming, type theory, and category theory. After studying mathematics for ~10years I am only now learning that proofs are programs; even though this was understood in the 1970s, or even the 30s in some sense. This has driven an interest in programming language theory and proof assistants. I teach these and related ideas to second year undergraduates in Christchurch, New Zealand. I enjoy writing code in Haskell, Agda, and Lean. 
+My interests are in functional programming, logic, type theory, and category theory. I enjoy writing code in Haskell, Agda, and Lean. 
 
 ### Projects :building_construction:
 
-I spend most of time split between refining my course materials and adding to the digital library of mathematics. However, I make other projects available on here too. 
+I spend most of time split between refining my course materials and adding to my digital library of mathematics. However, I make other projects available on here too.
 
 - Digital [library](https://github.com/SyntakticSugar/mathematics) of formalised mathematics :books: written in Lean.
 - Lambda calculus [computer](https://github.com/SyntakticSugar/lamb) :abacus: written in Haskell.
