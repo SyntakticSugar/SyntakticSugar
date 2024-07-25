@@ -1,6 +1,6 @@
 ## Hello, my name is Robert :man_technologist:
 
-I am interested in functional programming, type theory, and category theory. After studying mathematics for ~10years I am only now learning that proofs are programs; even though this was understood in the 1970s, or even the 30s in some sense. This has driven an interested in programming language theory and proof assistants. I teach these and related ideas to second year undergraduates in Christchurch, New Zealand. I enjoy writing code in Haskell, Agda, and Lean. 
+I am interested in functional programming, type theory, and category theory. After studying mathematics for ~10years I am only now learning that proofs are programs; even though this was understood in the 1970s, or even the 30s in some sense. This has driven an interest in programming language theory and proof assistants. I teach these and related ideas to second year undergraduates in Christchurch, New Zealand. I enjoy writing code in Haskell, Agda, and Lean. 
 
 ### Projects :building_construction:
 
