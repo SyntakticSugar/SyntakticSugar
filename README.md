@@ -1,6 +1,6 @@
 ## Hello, my name is Robert :man_technologist:
 
-My interests are in functional programming, logic, type theory, and category theory. I enjoy writing code in Haskell, Agda, and Lean. 
+My interests are in functional programming, logic, type theory, and category theory. I enjoy writing code in Racket, Haskell, Agda, and Lean. 
 
 ### Projects :building_construction:
 
